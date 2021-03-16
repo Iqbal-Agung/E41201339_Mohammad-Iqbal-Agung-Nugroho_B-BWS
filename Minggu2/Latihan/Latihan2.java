@@ -9,7 +9,7 @@ package latihan2;
  *
  * @author M Iqbal Agung N
  */
-public class Latihan2 {
+public class latihan2 {
 
     /**
      * @param args the command line arguments

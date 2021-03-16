@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author M Iqbal Agung N
  */
-public class Latihan4 {
+public class latihan4 {
 
     public static void main(String[] args) {
         // TODO code application logic here
