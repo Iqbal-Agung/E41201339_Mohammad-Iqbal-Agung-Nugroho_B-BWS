@@ -21,8 +21,8 @@ public class Latihan2 {
         int a = 6;
         double b = 6.9;
         
-        System.out.println(nama);
-        System.out.println(a);
+        System.out.println (nama);
+        System.out.println (a);
     }
     
 }
