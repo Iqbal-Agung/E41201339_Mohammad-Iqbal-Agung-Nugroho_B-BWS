@@ -53,6 +53,6 @@ public class M3_tugas_d {
         
         System.out.println("------------------------------------------------");
         System.out.println("                 Terima kasih                   ");
-        System.out.println("   Anda sudah balanja di Kharisma Agung Plaza   ");
+        System.out.println("   Anda sudah belanja di Kharisma Agung Plaza   ");
     }   
 }
