@@ -39,30 +39,26 @@ public class M3_tugas_e {
             case "1":
                 System.out.println("Minuman yang anda pesan adalah Soft Drinks");
                 System.out.println("Pesanan akan segera kami antar");
-                System.out.println("Terima Kasih " + nama + " telah berkunjung diCafe Ceria");
                 break;    
             case "2":
                 System.out.println("Minuman yang anda pesan adalah Mix juice");
                 System.out.println("Pesanan akan segera kami antar");
-                System.out.println("Terima Kasih " + nama + " telah berkunjung diCafe Ceria");
                 break;
             case "3":
                 System.out.println("Minuman yang anda pesan adalah Nescafe");
                 System.out.println("Pesanan akan segera kami antar");
-                System.out.println("Terima Kasih " + nama + " telah berkunjung diCafe Ceria");
                 break;    
             case "4":
                 System.out.println("Minuman yang anda pesan adalah Soda Milk");
                 System.out.println("Pesanan akan segera kami antar");
-                System.out.println("Terima Kasih " + nama + " telah berkunjung diCafe Ceria");
                 break;  
             case "5":
                 System.out.println("Minuman yang anda pesan adalah Tea");
                 System.out.println("Pesanan akan segera kami antar");
-                System.out.println("Terima Kasih " + nama + " telah berkunjung diCafe Ceria");
                 break;   
             default:
                 System.out.println("Pilihan Tidak Tersedia!");    
         }
+        System.out.print("Terima Kasih " + nama + " telah berkunjung diCafe Ceria");
     }
 }
